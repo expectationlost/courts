@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 $court = "Foo Bar county Council";
 $uri = "http://courts.ie/offices.nsf/WebCOByJurisdiction?OpenView&Start=1&Count=59&Expand=4#4";
